@@ -1,0 +1,16 @@
+Usando Jframe e ArrayList
+Cadastrar e mostrar uma lista
+
+Criar um cadastro de Pessoas
+Pessoa
+	CPF:String
+	Nome:String
+	Sexo: char
+	Idade: int
+
+Cria um cadastro de Carro
+Carro
+	Modelo: String
+	Marca: String
+	Ano de fabricacao: int
+	Cor: String
